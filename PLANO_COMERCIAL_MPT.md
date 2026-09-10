@@ -45,10 +45,13 @@ Usar o histórico real de consumo para identificar cartuchos de baixo giro e ofe
 ### 13. Inteligência de consumo por cliente, operador e ponteira
 Manter histórico de cada locação com consumo por cartucho e, quando possível, identificar também o operador. Objetivo: conhecer padrões de utilização e direcionar ações comerciais específicas, sem tentar padronizar protocolos clínicos.
 
-### 14. Estratégia 9 mm / 13 mm sob solicitação
-Avaliar manter 9 mm e 13 mm centralizadas e disponibilizá-las sob solicitação, em vez de enviá-las automaticamente em todas as locações. Explorar comercialmente a baixa disponibilidade dessas ponteiras no mercado e comunicar “9 e 13 disponíveis” no site, conteúdo e SEO. Pode atender inclusive outras locadoras.
+### 14. Todas as ponteiras disponíveis como diferencial comercial
+Transformar a disponibilidade do conjunto completo de ponteiras do Ultraformer MPT — inclusive 9 mm e 13 mm — em argumento explícito de aquisição de clientes. Destacar nas artes, site, campanhas e abordagem comercial que a Interbusiness disponibiliza todas as ponteiras para utilização a critério do profissional habilitado. Objetivo: diferenciar a locação de concorrentes que trabalham com conjunto incompleto, conquistar share de outros locadores e tornar visível uma vantagem operacional que hoje pode passar despercebida. A comunicação pode explorar chamadas como “Locação de Ultraformer MPT com todas as ponteiras disponíveis” e destacar especificamente “9 mm e 13 mm disponíveis”. A disponibilidade não implica indicação clínica: a escolha de ponteira e protocolo permanece exclusivamente com o profissional.
 
-### 15. Sala pronta + MPT / coworking
+### 15. Case de contingência com ponteiras em duplicidade
+Desenvolver uma case de contingência para acompanhar a operação com ponteiras de maior giro em duplicidade, conforme estoque e análise de consumo. Objetivo: reduzir o risco de interrupção do atendimento caso uma ponteira apresente falha durante a locação, principalmente quando o equipamento estiver distante da base e a substituição imediata for inviável. Transformar essa redundância em diferencial comercial: continuidade operacional, maior segurança para a agenda do cliente e menor exposição a perda de um dia de atendimentos. O histórico operacional mostrou que a indisponibilidade de uma ponteira durante uma agenda pode gerar paralisação, perda financeira para o cliente e pedidos posteriores de compensação em disparos. A definição de quais ponteiras devem ser duplicadas deverá ser orientada pelo histórico real de consumo.
+
+### 16. Sala pronta + MPT / coworking
 Estudar parceria com espaço/coworking no Rio para oferecer ao profissional uma estrutura pronta para receber seus pacientes: sala, maca, apoio e Ultraformer MPT. Modelo inspirado na demanda já observada de profissionais que precisam atender pacientes no RJ sem possuir estrutura própria local.
 
 ## Ideias absorvidas ou não permanentes
@@ -64,5 +67,6 @@ Estudar parceria com espaço/coworking no Rio para oferecer ao profissional uma 
 - Promoção por ponteira tem como função aumentar giro de cartuchos específicos e proteger o ativo.
 - Descontos por ponteira são temporários e direcionados, não alteração permanente da tabela.
 - A escolha de profundidade, ponteira e protocolo pertence ao profissional habilitado; a Interbusiness oferece disponibilidade e condição comercial, não prescrição clínica.
+- A disponibilidade de todas as ponteiras e a redundância das ponteiras de maior giro devem ser tratadas como diferenciais comerciais e operacionais da locação.
 - Site, Meta Ads e Google Ads são infraestrutura de aquisição e devem trabalhar integrados.
 - Novas ações devem ser acrescentadas a este arquivo sem apagar o histórico das decisões anteriores.
