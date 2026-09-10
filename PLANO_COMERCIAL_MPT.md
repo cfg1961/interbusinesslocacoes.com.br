@@ -1,0 +1,68 @@
+# PLANO COMERCIAL — INTERBUSINESS LOCAÇÕES | ULTRAFORMER MPT
+
+Atualizado em 10/09/2026.
+
+Este arquivo consolida as ações comerciais e operacionais discutidas para o Ultraformer MPT. A ideia é manter no próprio repositório um registro simples e atualizado da estratégia, evitando perda do histórico conforme as ações evoluem.
+
+## Ações ativas
+
+### 1. MPT+ Fidelidade
+Programa central de retenção e recorrência. A cada 5.000 disparos acumulados em até 180 dias, o cliente conquista R$ 1.000 de bônus para uma próxima locação, conforme regulamento vigente.
+
+### 2. Reativação da base de leads do RJ
+Retomar os aproximadamente 120/130+ contatos da base com argumentos novos, principalmente MPT+, site próprio e novas ofertas. O primeiro disparo coletivo teve baixo retorno; a reabordagem deve ser mais qualificada.
+
+### 3. Prospecção individual e ligações
+Trabalhar leads individualmente, recuperando histórico de conversa e buscando agenda concreta. Reduzir dependência de disparos em massa.
+
+### 4. Clientes multiplicadores
+Identificar profissionais com perfil semelhante ao da Dra. Thaís: pessoas capazes de organizar agendas em diferentes clínicas, parceiros ou localidades e gerar várias locações, não apenas uma saída isolada.
+
+### 5. Indicações de clientes atuais
+Após uma boa locação, solicitar indicações objetivas de outros profissionais, em vez de depender apenas de indicação espontânea.
+
+### 6. MPT Day
+Criar ou parceirizar um espaço e concentrar pacientes em um mesmo dia, gerando demanda para o equipamento. Pode ser integrado a cursos, pacientes-modelo e ao futuro modelo de sala pronta + MPT.
+
+### 7. Curso/treinamento como geração de locatários
+Usar cursos, treinamentos, networking e pacientes-modelo para formar novos operadores e futuros locatários. A antiga ideia de condição especial isolada para a primeira locação deixa de ser uma ação própria e pode ser utilizada dentro dessa jornada quando fizer sentido.
+
+### 8. Locação avulsa de ponteiras/disparos
+Atender proprietários e outras locadoras de MPT que precisem de cartuchos específicos sem querer mantê-los em estoque. A operação tem potencial de custo logístico inferior ao deslocamento da máquina completa.
+
+### 9. Meta Ads Manager
+Localizar/recuperar a conta correta da Interbusiness no Meta e migrar gradualmente do simples “Turbinar/Impulsionar” do Instagram para campanhas profissionais no Gerenciador de Anúncios. Trabalhar segmentação, dark posts, testes A/B, diferentes criativos e copies, públicos, posicionamentos e aumento de verba nas campanhas vencedoras. Pista operacional: conta de anúncios 475659903876144 apareceu associada ao nome “I-Motion”.
+
+### 10. Site próprio Interbusiness Locações
+Implantado em interbusinesslocacoes.com.br. O site passa a funcionar como infraestrutura para apresentação comercial, MPT+, contato, campanhas e futuras ofertas.
+
+### 11. Google Ads
+Após o site estar estruturado, captar demanda ativa de profissionais que já pesquisam termos relacionados à locação de Ultraformer MPT no Rio de Janeiro.
+
+### 12. Promoção inteligente por ponteira
+Usar o histórico real de consumo para identificar cartuchos de baixo giro e oferecer condições pontuais por profundidade/ponteira. O preço promocional pode ser encerrado assim que a meta de utilização desejada for alcançada. A decisão clínica continua sendo exclusivamente do operador.
+
+### 13. Inteligência de consumo por cliente, operador e ponteira
+Manter histórico de cada locação com consumo por cartucho e, quando possível, identificar também o operador. Objetivo: conhecer padrões de utilização e direcionar ações comerciais específicas, sem tentar padronizar protocolos clínicos.
+
+### 14. Estratégia 9 mm / 13 mm sob solicitação
+Avaliar manter 9 mm e 13 mm centralizadas e disponibilizá-las sob solicitação, em vez de enviá-las automaticamente em todas as locações. Explorar comercialmente a baixa disponibilidade dessas ponteiras no mercado e comunicar “9 e 13 disponíveis” no site, conteúdo e SEO. Pode atender inclusive outras locadoras.
+
+### 15. Sala pronta + MPT / coworking
+Estudar parceria com espaço/coworking no Rio para oferecer ao profissional uma estrutura pronta para receber seus pacientes: sala, maca, apoio e Ultraformer MPT. Modelo inspirado na demanda já observada de profissionais que precisam atender pacientes no RJ sem possuir estrutura própria local.
+
+## Ideias absorvidas ou não permanentes
+
+- Promoção geral recorrente a R$ 1,50 por disparo: perdeu função como estratégia principal após o MPT+ e pode existir apenas em ações específicas.
+- Primeira locação gratuita ou com desconto como ação independente: absorvida pela estratégia de aquisição/curso/MPT+.
+- Técnica inclusa: permanece como ferramenta comercial pontual, não como política permanente. Pode ser oferecida quando a economia da locação justificar.
+- Outras concessões genéricas de preço/cashback: evitar criar programas paralelos que concorram com o MPT+.
+
+## Princípios de execução
+
+- MPT+ tem como função principal aumentar recorrência e retenção.
+- Promoção por ponteira tem como função aumentar giro de cartuchos específicos e proteger o ativo.
+- Descontos por ponteira são temporários e direcionados, não alteração permanente da tabela.
+- A escolha de profundidade, ponteira e protocolo pertence ao profissional habilitado; a Interbusiness oferece disponibilidade e condição comercial, não prescrição clínica.
+- Site, Meta Ads e Google Ads são infraestrutura de aquisição e devem trabalhar integrados.
+- Novas ações devem ser acrescentadas a este arquivo sem apagar o histórico das decisões anteriores.
