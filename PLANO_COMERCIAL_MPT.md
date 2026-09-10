@@ -54,6 +54,16 @@ Desenvolver uma case de contingência para acompanhar a operação com ponteiras
 ### 16. Sala pronta + MPT / coworking
 Estudar parceria com espaço/coworking no Rio para oferecer ao profissional uma estrutura pronta para receber seus pacientes: sala, maca, apoio e Ultraformer MPT. Modelo inspirado na demanda já observada de profissionais que precisam atender pacientes no RJ sem possuir estrutura própria local.
 
+### 17. Plataforma de vídeo com IA — prioridade urgente
+Assinar e padronizar uma plataforma de criação e edição de vídeos para a Interbusiness Locações, reduzindo a dependência de peças estáticas e permitindo produção frequente de Reels e Stories. O VEED é a referência inicial já testada, inclusive com a voz “Conrado” em Português (Brasil). O fluxo deve ser simplificado: roteiro criado com apoio de IA, narração curta, imagens da Interbusiness, texto de impacto e edição vertical 9:16. O objetivo é transformar vídeo em rotina comercial, e não em projeto demorado a cada publicação.
+
+A infraestrutura atual do escritório — computador antigo, i3 e 8 GB de memória — mostrou limitação para edição local, especialmente no CapCut Desktop. Antes de adotar fluxos pesados locais, priorizar ferramentas em nuvem. Avaliar substituição do notebook/computador somente se continuar existindo gargalo operacional relevante no navegador ou na edição final.
+
+### 18. GIFs e microvídeos — execução imediata
+Começar imediatamente a produzir GIFs e microvídeos verticais a partir de sequências de artes estáticas, sem depender de narração ou edição complexa. Formato de referência: 3 a 5 telas, frases grandes, leitura rápida e movimento contínuo, com duração aproximada de 6 a 10 segundos. Usar 1080 × 1920 para Stories/Reels e respeitar a área segura de textos, logos e CTA.
+
+Prioridade para produção já em 11/09/2026, aproveitando os diferenciais comerciais recém-definidos. Primeiros temas: “Sua agenda não pode parar”; “MPT com todas as ponteiras disponíveis”; “9 mm e 13 mm disponíveis”; “Plano de contingência com ponteiras de maior giro”; “MPT+ Fidelidade”. A abertura deve chamar atenção nos primeiros 1–2 segundos, com frase curta e visual forte. GIFs funcionam como solução imediata; a evolução seguinte é transformar os mesmos conceitos em vídeos com áudio e narração.
+
 ## Ideias absorvidas ou não permanentes
 
 - Promoção geral recorrente a R$ 1,50 por disparo: perdeu função como estratégia principal após o MPT+ e pode existir apenas em ações específicas.
@@ -69,4 +79,5 @@ Estudar parceria com espaço/coworking no Rio para oferecer ao profissional uma 
 - A escolha de profundidade, ponteira e protocolo pertence ao profissional habilitado; a Interbusiness oferece disponibilidade e condição comercial, não prescrição clínica.
 - A disponibilidade de todas as ponteiras e a redundância das ponteiras de maior giro devem ser tratadas como diferenciais comerciais e operacionais da locação.
 - Site, Meta Ads e Google Ads são infraestrutura de aquisição e devem trabalhar integrados.
+- Vídeo deve entrar na rotina de comunicação comercial; GIFs e microvídeos funcionam como execução imediata enquanto o fluxo de vídeo com IA é consolidado.
 - Novas ações devem ser acrescentadas a este arquivo sem apagar o histórico das decisões anteriores.
