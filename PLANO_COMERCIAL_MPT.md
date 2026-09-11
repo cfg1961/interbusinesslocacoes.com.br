@@ -24,8 +24,16 @@ Após uma boa locação, solicitar indicações objetivas de outros profissionai
 ### 6. MPT Day
 Criar ou parceirizar um espaço e concentrar pacientes em um mesmo dia, gerando demanda para o equipamento. Pode ser integrado a cursos, pacientes-modelo e ao futuro modelo de sala pronta + MPT.
 
-### 7. Curso/treinamento como geração de locatários
-Usar cursos, treinamentos, networking e pacientes-modelo para formar novos operadores e futuros locatários. A antiga ideia de condição especial isolada para a primeira locação deixa de ser uma ação própria e pode ser utilizada dentro dessa jornada quando fizer sentido.
+### 7. Curso/treinamento como canal prioritário de aquisição de locatários
+Estruturar treinamentos presenciais de Ultraformer MPT como ferramenta de aquisição, relacionamento e fidelização de novos locatários. O objetivo principal não é transformar a Interbusiness em escola nem depender do lucro do curso: o treinamento pode funcionar como investimento de aquisição de clientes, criando vínculo, suporte e confiança antes da primeira locação.
+
+Relato de operador/locador experiente reforçou que grande parte de seus clientes de locação nasceu de cursos e que clientes previamente treinados tendem a manter relacionamento mais sólido, enquanto clientes sem vínculo anterior apresentam maior sensibilidade a pequenas diferenças de preço.
+
+Para executar, a Interbusiness precisa montar a estrutura adequada: parceiro/espaço, técnica qualificada e professor/instrutor tecnicamente capacitado. Cláudio não ministrará o conteúdo técnico. O projeto deve ser implantado quando a estrutura estiver organizada, sem improvisação.
+
+O funil desejado é: treinamento → relacionamento e suporte → primeira locação → MPT+ → recorrência → indicação. Pacientes-modelo e participantes dos cursos também podem alimentar ações de MPT Day.
+
+Neste momento, o foco de treinamento deve ser o Ultraformer MPT. O Ultraformer III permanece na operação fixa atual enquanto estiver se pagando/gerando retorno, sem necessidade de deslocá-lo para essa estratégia.
 
 ### 8. Locação avulsa de ponteiras/disparos
 Atender proprietários e outras locadoras de MPT que precisem de cartuchos específicos sem querer mantê-los em estoque. A operação tem potencial de custo logístico inferior ao deslocamento da máquina completa.
@@ -74,6 +82,8 @@ Prioridade para produção já em 11/09/2026, aproveitando os diferenciais comer
 ## Princípios de execução
 
 - MPT+ tem como função principal aumentar recorrência e retenção.
+- Curso/treinamento deve ser tratado como canal de aquisição e relacionamento, e não apenas como produto educacional isolado.
+- O treinamento técnico deve ser ministrado por profissional capacitado; Cláudio estrutura comercialmente a operação, mas não assume o papel de professor técnico.
 - Promoção por ponteira tem como função aumentar giro de cartuchos específicos e proteger o ativo.
 - Descontos por ponteira são temporários e direcionados, não alteração permanente da tabela.
 - A escolha de profundidade, ponteira e protocolo pertence ao profissional habilitado; a Interbusiness oferece disponibilidade e condição comercial, não prescrição clínica.
